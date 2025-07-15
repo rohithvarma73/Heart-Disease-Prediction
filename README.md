@@ -4,6 +4,7 @@
 [![Flask](https://img.shields.io/badge/Flask-2.x-black?logo=flask)](https://flask.palletsprojects.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Deploy on Render](https://img.shields.io/badge/Deployed-Render-blueviolet?logo=render)](https://your-app-url.onrender.com)
+
 An intelligent AI-based web application that predicts the likelihood of **heart disease** based on clinical parameters using **machine learning** and **deep learning** techniques. Built using **Flask**, **PyTorch**, and **Scikit-learn**, this project provides a lightweight and interactive user interface for real-time risk assessment.
 
 ---
