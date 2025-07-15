@@ -1,4 +1,4 @@
-# 🫀 AI-Powered Heart Disease Predictor
+# 🫀 AI-Powered Heart Disease Prediction
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-2.x-black?logo=flask)](https://flask.palletsprojects.com/)
@@ -70,8 +70,8 @@ Used the [UCI Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/hea
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/heart-disease-predictor.git
-cd heart-disease-predictor
+git clone https://github.com/yourusername/heart-disease-prediction.git
+cd heart-disease-prediction
 
 # (Optional) Create and activate virtual environment
 python -m venv venv
